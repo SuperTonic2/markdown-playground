@@ -65,7 +65,7 @@ You place the text you want to dispaly in square brackets followed by the URL in
 
 **How do you link to a section in the same or another markdown file?**  
 You can link to a section in the same or another markdown file by opening the markdown file, selecting the link symbol next to the header you want to link to, right-cliking, copying the link, and then adding that link using the same format you'd use for a hyperlink.
-[This is a link to another section of this document](https://github.com/SuperTonic2/markdown-playground/blob/main/Carter%20Getting%20started%20with%20Git%20Lab%20Markdown.md#this-is-a-second-level-heading)
+[This is a link to another section of this document](https://github.com/SuperTonic2/markdown-playground/blob/main/Carter%20Getting%20started%20with%20Git%20Lab%20Markdown.md#getting-started-with-git-lab)
 
 **What are the three possible symbols for indicating an unordered list?**  
 An asterisk (*), a dash (-) or a plus sign (+).
